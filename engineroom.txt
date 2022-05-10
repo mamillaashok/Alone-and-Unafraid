@@ -1,0 +1,40 @@
+
+      _________________________________
+     /               |                  \
+    /                |                   \
+   /      BOILER     |  BOILER            \               BOILER ROOM- "Contains stream ,takes
+  /       ROOM-1     |  ROOM-2             \                            seawater convert into
+ |___________________|______________________|                            stream".
+ |                                          |             NUCLEAR REACTOR-"Generates electricity
+ |                                          |                              taking stream from BOILERS"
+ |           NUCLEAR REACTOR                |             AUXILARY UNITS- "Supplies electricity to all
+ |                                          |                               compartments".
+ |                                          |
+ |_________________________________________ |             PRPULSION UNIT-"Helps to move ship"
+ |                   |                      |
+ |                   |                      |
+ |                   |                      |
+ |        AUXILARY   |   AUXILAR            |
+ |          UNIT-1   |    UNIT-2            |
+ |                   |                      |
+ |                   |                      |
+ |                   |                      |
+  \                  |                      /
+   \_________________|____________________ /
+    \          PROPULSION                 /
+     \             UNIT                  /
+      \_________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
